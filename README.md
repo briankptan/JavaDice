@@ -1,4 +1,4 @@
 # JavaDice
 Java Programming Tutorial
 
-Access the Java code.
+You may download the files by clicking on them,
